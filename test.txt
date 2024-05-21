@@ -1,0 +1,5 @@
+What programming languages are you proficient in, and which ones are you most comfortable with?
+
+Java
+MS SQL Server (SQL, stored procedures)
+javascript/typescript
